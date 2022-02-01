@@ -1,0 +1,15 @@
+:root {
+  --primary: #0050b9;
+  --primary-text: #1a1a1a;
+  --secondary: #ffffff;
+  --secondary-text: #ffffff;
+  --accent: #1050ff44;
+  --accent-text: #ffffff;
+  --black: #000000;
+}
+
+body {
+  font-family: 'BebasKaiRegular';
+  font-weight: normal;
+  font-style: normal;
+}
